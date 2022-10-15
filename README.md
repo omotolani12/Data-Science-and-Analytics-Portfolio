@@ -10,7 +10,10 @@ When I am not studying or building, you can find me outside enjoying with friend
 You can use the links below to see what i have been working on!
 
 Medium:- https://medium.com/@omotolaniosems
+
 Tableau:- https://public.tableau.com/app/profile/kehinde.osems.omotolani
+
 LinkedIn:- http://www.linkedin.com/in/omotolani-kehinde-osems-98140818b
 
+Click [here] (Data-Science-and-Analytics-Portfolio)
 
